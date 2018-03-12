@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+// src/sass/styles.scss
+
+//@import './variables';
+//@import './mixins';
+//@import
+//'~bootstrap/scss/mixins/badge',
+//'~bootstrap/scss/mixins/hover'
+// ;
+@import
+  'functions',
+  'variables',
+  'mixins',
+//; //  ,
+  'print',
+  'reboot',
+  'type';
+a {
+  @include badge-variant($indigo);
+  //color: $indigo;
+}
