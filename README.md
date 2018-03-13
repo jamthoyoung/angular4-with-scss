@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Style
 
-See https://scotch.io/tutorials/using-sass-with-the-angular-cli
+This has been updated to use bootstrap, as per the following guide: https://scotch.io/tutorials/using-sass-with-the-angular-cli
 
 ## Development server
 
